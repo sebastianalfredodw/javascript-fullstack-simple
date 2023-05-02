@@ -1,0 +1,1 @@
+{"version":3,"file":"css/bundle.css","mappings":"AAAA;IACI,oBAAoB;AACxB;;AAEA;IACI,eAAe;AACnB;;AAEA;IACI,aAAa;AACjB,C","sources":["webpack://javascript-fullstack-simple/./frontend/style/app.css"],"sourcesContent":["body {\r\n    background: #ecf0f1 ;\r\n}\r\n\r\n.navbar {\r\n    background: red;\r\n}\r\n\r\n.brand{\r\n    color:#ecf0f1;\r\n}"],"names":[],"sourceRoot":""}
