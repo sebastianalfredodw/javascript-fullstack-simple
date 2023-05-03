@@ -1,6 +1,4 @@
-![HenryLogo](./Assets//logoBannerHenry.png) 
-  
- # **🧑‍💻 EJERCICIO FULLSTACK | MONGODB | WEBPACK 👩‍💻** 
+# **🧑‍💻 EJERCICIO FULLSTACK | MONGODB | WEBPACK 👩‍💻** 
   
  ## **📌 INTRODUCCIÓN** 
   
